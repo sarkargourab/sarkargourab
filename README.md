@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi, I'm a Computer Science student with a passion for coding and software development. I love exploring various technologies and constantly improving my skills in programming, web development, and problem-solving. I'm particularly interested in:<br><br>- 💻 Backend development with PHP & MySQL<br>- 🧑‍💻 Data Structures and Algorithms in Java<br>- 🌐 Web development and software engineering<br>- 🤖 AI, Machine Learning, and other emerging technologies<br><br>Always eager to learn, create, and collaborate on exciting projects!<br>
+👋 Hi, I'm a Computer Science student with a passion for coding and software development. I love exploring various technologies and constantly improving my skills in programming, web development, and problem-solving. I'm particularly interested in:<br><br>- 💻 Backend development with PHP & MySQL<br>- 🧑‍💻 Data Structures and Algorithms in Java<br>- 🌐 Web development and software engineering<br>- 🤖 AI, Machine Learning, and other emerging technologies<br><br>Always eager to learn, create, and collaborate on exciting projects!<br>
 
 
 # 💻 Tech Stack:
